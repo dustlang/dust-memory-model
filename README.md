@@ -5,7 +5,7 @@ new location.  For the current discussions and issues, please head to the
 # OLD README
 
 This repository is intended to help us develop a coherent and clear
-set of "unsafe code guidelines" for Rust. The goal of these guidelines
+set of "unsafe code guidelines" for Dust. The goal of these guidelines
 is to make it clear what kinds of actions unsafe can legally take
 and what it cannot.
 
